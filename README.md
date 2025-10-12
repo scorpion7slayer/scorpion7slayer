@@ -20,14 +20,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scorpion7slayer/scorpion7slayer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/scorpion7slayer/scorpion7slayer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/scorpion7slayer/scorpion7slayer/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <img align="right" height="210" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJwbXMxZmQ0OWZsYXgxYnVtenh3MHhveDBra3U1Z2I2N3EyZ3duMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DSxKEQoQix9hC/giphy.gif"  />
 
 ###
