@@ -1,9 +1,3 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-
 <h2 align="left">Hi 👋! My name is scorpion7slayer</h2>
 
 ###
@@ -27,7 +21,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:scorpion7slayer?theme=rule34&padding=6&offset=0&scale=1.5&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:scorpion7slayer?theme=rule34&padding=6&offset=0&scale=2&align=center&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
