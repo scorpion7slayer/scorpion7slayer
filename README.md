@@ -1,9 +1,21 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
 <h2 align="left">Hi 👋! My name is scorpion7slayer</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=scorpion7slayer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=gruvbox&locale=fr&hide_border=false" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
@@ -29,5 +41,25 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/scorpion7slayer/scorpion7slayer/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scorpion7slayer/scorpion7slayer/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/scorpion7slayer/scorpion7slayer/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/scorpion7slayer/scorpion7slayer/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:scorpion7slayer?theme=rule34&padding=6&offset=0&scale=1.5&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
 ###
