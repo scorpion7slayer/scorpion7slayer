@@ -1,9 +1,3 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-
 <h2 align="left">Hi 👋! My name is scorpion7slayer</h2>
 
 ###
@@ -14,13 +8,23 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/scorpion7slayer/scorpion7slayer/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:scorpion7slayer?theme=rule34&padding=6&offset=0&scale=1.5&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
 
-<img align="right" height="140" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJwbXMxZmQ0OWZsYXgxYnVtenh3MHhveDBra3U1Z2I2N3EyZ3duMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DSxKEQoQix9hC/giphy.gif"  />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scorpion7slayer/scorpion7slayer/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/scorpion7slayer/scorpion7slayer/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/scorpion7slayer/scorpion7slayer/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -38,28 +42,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/scorpion7slayer/scorpion7slayer/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scorpion7slayer/scorpion7slayer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/scorpion7slayer/scorpion7slayer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/scorpion7slayer/scorpion7slayer/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:scorpion7slayer?theme=rule34&padding=6&offset=0&scale=1.5&align=top&pixelated=1&darkmode=auto"  />
-</div>
+<img align="right" height="210" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJwbXMxZmQ0OWZsYXgxYnVtenh3MHhveDBra3U1Z2I2N3EyZ3duMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DSxKEQoQix9hC/giphy.gif"  />
 
 ###
