@@ -38,9 +38,15 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/scorpion7slayer/scorpion7slayer/output/snake.svg" alt="Snake animation" />
+</div>
 
-<img src="https://raw.githubusercontent.com/scorpion7slayer/scorpion7slayer/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=24965&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=one_dark_pro"  />
+</div>
 
 ###
 
