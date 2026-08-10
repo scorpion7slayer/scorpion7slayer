@@ -44,6 +44,18 @@
 
 ###
 
+<h3 align="center">Partners & Support</h3>
+
+<div align="center">
+  <a href="https://mole.fit/?atp=SCo7Qr4nXn">
+    <img src="https://img.shields.io/badge/Mole-Partner%20Program-111111?style=for-the-badge" height="48" alt="Mole Partner Program" />
+  </a>
+  <br /><br />
+  <a href="https://buymeacoffee.com/scorpion7slayer">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamo1a3preWFzMmJ3OWt0ZXJxaGxmNmpocnNzM3hyc3dzYWxzY3lxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7kZE0z52Sd9zSESzDA/giphy.gif" height="60" alt="Buy Me a Coffee" />
+  </a>
+</div>
+
 ###
 
 <div>
